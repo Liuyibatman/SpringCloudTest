@@ -24,7 +24,9 @@
         <module name="cloud-stream-rabbitmq-provider8801" />
         <module name="cloudalibaba-config-nacos-client3377" />
         <module name="cloudalibaba-consumer-nacos-order803" />
+        <module name="cloudalibaba-consumer-nacos-order804" />
         <module name="cloudalibaba-provider-payment9001" />
+        <module name="cloudalibaba-provider-payment9003" />
         <module name="cloudalibaba-sentinel-service8401" />
       </profile>
     </annotationProcessing>
@@ -47,7 +49,9 @@
       <module name="cloud-stream-rabbitmq-provider8801" target="1.8" />
       <module name="cloudalibaba-config-nacos-client3377" target="1.8" />
       <module name="cloudalibaba-consumer-nacos-order803" target="1.8" />
+      <module name="cloudalibaba-consumer-nacos-order804" target="1.8" />
       <module name="cloudalibaba-provider-payment9001" target="1.8" />
+      <module name="cloudalibaba-provider-payment9003" target="1.8" />
       <module name="cloudalibaba-sentinel-service8401" target="1.8" />
       <module name="SpringCloudTest" target="1.8" />
     </bytecodeTargetLevel>
